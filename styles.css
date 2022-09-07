@@ -40,3 +40,30 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.refresh {
+  border: 2px solid red;
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  position: relative;
+  margin-left: 43%;
+  margin-top: 20px;
+  font-weight: bold;
+  font-family: 'sans-serif';
+  font-size: 25px;
+
+}
+
+.refresh:hover {
+  background-color: #15eba0;
+  transition: 0.7s;
+}
